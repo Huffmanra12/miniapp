@@ -1,0 +1,16 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "Database for movie list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Huffman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "knex": "^2.5.1",
+    "pg": "^8.11.1"
+  }
+}
